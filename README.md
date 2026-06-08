@@ -1,5 +1,9 @@
 # 🐾 Paw Palace – Pet Care & Grooming App UI
 
+# 🐾 Paw Palace – Pet Care & Grooming App UI
+
+![Cover](Screenshots/1.Splash%20Screen.png)
+
 ## 📌 Project Overview
 
 Paw Palace is a mobile application UI/UX design created in Figma for pet care and grooming services.
@@ -93,10 +97,16 @@ The application allows users to:
 ### Booking Confirmation Screen
 ![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen.png)
 
+## 🔗 Project Links
+
+- [Figma Design File](https://www.figma.com/design/qBi28VUizNXzQJo6MNCLpE/Task-1?node-id=0-1&t=IGpae5V2km0dHAqO-1)
+
+- [Interactive Prototype](https://www.figma.com/proto/qBi28VUizNXzQJo6MNCLpE/Task-1?node-id=0-1&t=IGpae5V2km0dHAqO-1)
+
 ## 👨‍💻 Designed By
 
 **IYYAPPAN VYSHNAV**
 
-UI/UX Internship Project
+UI/UX Internship Project - FUTURE_UX_01
 
 2026
