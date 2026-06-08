@@ -61,6 +61,38 @@ The application allows users to:
 
 ---
 
+## 📸 App Screenshots
+
+### Splash Screen
+![Splash](Screenshots/1.Splash%20Screen.png)
+
+### Loading Animation 1
+![Loading1](Screenshots/2.Splash%20Screen1.png)
+
+### Loading Animation 2
+![Loading2](Screenshots/3.Splash%20Screen2.png)
+
+### Loading Animation 3
+![Loading3](Screenshots/4.Splash%20Screen3.png)
+
+### Login Screen
+![Login](Screenshots/5.Login.png)
+
+### Register Screen
+![Register](Screenshots/6.Register.png)
+
+### Pet Selection Screen
+![Pet Selection](Screenshots/7.Pet%20Selection%20Screen.png)
+
+### Services Screen
+![Services](Screenshots/8.Services.png)
+
+### Slot Booking Screen
+![Slot Booking](Screenshots/9.Slot%20Booking.png)
+
+### Booking Confirmation Screen
+![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen.png)
+
 ## 👨‍💻 Designed By
 
 **IYYAPPAN VYSHNAV**
