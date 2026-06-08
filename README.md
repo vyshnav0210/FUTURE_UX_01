@@ -1,7 +1,5 @@
 # 🐾 Paw Palace – Pet Care & Grooming App UI
 
-# 🐾 Paw Palace – Pet Care & Grooming App UI
-
 ![Cover](Screenshots/1.Splash%20Screen.png)
 
 ## 📌 Project Overview
