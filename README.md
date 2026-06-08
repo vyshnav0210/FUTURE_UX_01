@@ -95,6 +95,10 @@ The application allows users to:
 ### Booking Confirmation Screen
 ![Confirmation](Screenshots/10.Booking%20Confirmation%20Screen.png)
 
+## 📱 Complete App Preview
+
+![App Preview](Screenshots/Task-1.png)
+
 ## 🔗 Project Links
 
 - [Figma Design File](https://www.figma.com/design/qBi28VUizNXzQJo6MNCLpE/Task-1?node-id=0-1&t=IGpae5V2km0dHAqO-1)
