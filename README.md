@@ -63,7 +63,7 @@ The application allows users to:
 
 ## 👨‍💻 Designed By
 
-**Vyshnav I**
+**IYYAPPAN VYSHNAV**
 
 UI/UX Internship Project
 
